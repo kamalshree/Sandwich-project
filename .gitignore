@@ -99,6 +99,7 @@ obj/
 *.iws
 /out/
 
+
 # User-specific configurations
 .idea/caches/
 .idea/libraries/
@@ -173,6 +174,7 @@ fabric.properties
 .idea/**/tasks.xml
 
 # Sensitive or high-churn files:
+.idea/
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.xml
